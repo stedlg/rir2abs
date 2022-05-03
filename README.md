@@ -1,6 +1,6 @@
 # geometry-informed-estimation
 
-Paper : Geometry informed estimation of surface absorption profiles from room impulse responses
+Paper : Geometry informed estimation of surface absorption profiles from room impulse responses, EUSIPCO 2022 
 
 Authors : Stéphane Dilungana, Antoine Deleforge, Cédric Foy, Sylvain Faisan 
 
