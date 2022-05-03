@@ -10,8 +10,9 @@ Please consider the following steps before running main.m :
 - Install ROOMSIM shoebox room acoustics simulator : https://sourceforge.net/projects/roomsim/
 - Create results/ and data/ folders inside geometry-informed-estimation/ folder
 
-In main.m, set path_package to geometry-informed-estimation/ and path_roomsim to the ROOMSIM folder
+In main.m, set path_package to geometry-informed-estimation/ and path_roomsim to the ROOMSIM folder.
 In main.m, the "simulate data" section allows to choose parameters of the ROOMSIM simulator.
+
 In main.m, the "main parameters" allows to choose main model parameters. Default parameters correspond to those used in the paper. 
 
 
