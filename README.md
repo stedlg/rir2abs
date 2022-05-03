@@ -1,5 +1,7 @@
 # geometry-informed-estimation
+
 Paper : Geometry informed estimation of surface absorption profiles from room impulse responses
+
 Authors : Stéphane Dilungana, Antoine Deleforge, Cédric Foy, Sylvain Faisan 
 
 main.m allows to perform the geometry informed estimation of surface absorption profiles from room impulse responses.
