@@ -8,9 +8,9 @@ main.m allows to perform the geometry informed estimation of surface absorption 
 Please consider the following steps before running main.m :
 
 - Install the ROOMSIM shoebox room acoustics simulator : https://sourceforge.net/projects/roomsim/
-- Create results/ and data/ folders inside the geometry-informed-estimation/ folder
+- Create results/ and data/ folders inside the rir2abs/ folder
 
-In main.m, set path_package to geometry-informed-estimation/ and path_roomsim to the ROOMSIM folder.
+In main.m, set path_package to rir2abs/ and path_roomsim to the ROOMSIM folder.
 In main.m, the "simulate data" section allows to choose parameters for the ROOMSIM simulator.
 
 In main.m, the "main parameters" allows to choose the main model parameters. Default parameters correspond to those used in the paper. 
