@@ -5,6 +5,8 @@
 **Authors:** Stéphane Dilungana, Antoine Deleforge, Cédric Foy, Sylvain Faisan 
 
 main.m allows to perform the geometry informed estimation of surface absorption profiles from room impulse responses.
+In this approach, absorption coefficients are estimated through nonlinear constrained optimization on magnitude spectrograms.
+
 Please consider the following steps before running main.m :
 
 - Install the ROOMSIM shoebox room acoustics simulator : https://sourceforge.net/projects/roomsim/
