@@ -1,6 +1,6 @@
 # rir2abs
 
-**<u>Paper</u>:** Geometry <u>informed</u> estimation of surface absorption profiles from room impulse responses, EUSIPCO 2022 (https://hal.archives-ouvertes.fr/hal-03636502/document)
+**Paper:** Geometry informed estimation of surface absorption profiles from room impulse responses, EUSIPCO 2022 (https://hal.archives-ouvertes.fr/hal-03636502/document)
 
 **Authors:** Stéphane Dilungana, Antoine Deleforge, Cédric Foy, Sylvain Faisan 
 
