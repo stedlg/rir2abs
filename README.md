@@ -4,6 +4,7 @@
 
 **Authors:** Stéphane Dilungana, Antoine Deleforge, Cédric Foy, Sylvain Faisan 
 
+The code allows reproduction of the core methodology and experiments presented in the article.
 main.m allows to perform the geometry informed estimation of surface absorption profiles from room impulse responses.
 In this approach, absorption coefficients are estimated through nonlinear constrained optimization on magnitude spectrograms.
 
